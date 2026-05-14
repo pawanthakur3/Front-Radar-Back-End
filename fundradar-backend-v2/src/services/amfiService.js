@@ -115,5 +115,5 @@ function computeReturns(currentNav, history) {
 
 module.exports = {
   fetchFundList, fetchNavMap, fetchFundHistory,
-  getCategory, getRisk, getStars, computeReturns,
+  getCategory, getRisk, getStars, computeReturns, computeSharpe,
 };
